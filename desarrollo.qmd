@@ -1,0 +1,14 @@
+---
+title: "El Desafío de Enseñar Análisis de Datos en 2024: La Experiencia del Proyecto Nido del Búho de ERGOSTATS"
+subtitle: "Desarrollo de la presentación"
+format: html
+editor: visual
+---
+
+## 
+
+#### 1. **Introducción** (5 min)
+
+-   **Presentación Personal y Contexto de ERGOSTATS**:
+
+Soy Alex Bajaña, Director del Centro de Investigación Estadística ERGOSTATS, artista, fan del anime y ciclista. Es un gusto estar en este evento y compartir con doctorantes e investigadores. Agradezco a Carmen Parreño y Marcela Guachamin por hacerme participe de este espacio y quiero compartir con ustedes los siguientes 40 minutos, en los que vamos a vislumbrar el estado de la educación complementaria en terminos de analisis y uso de datos en un punto sin precedentes para el Ecuador y cual es el rol del Centro

@@ -1,0 +1,53 @@
+---
+title: "El Desafío de Enseñar Análisis de Datos en 2024: La Experiencia del Proyecto Nido del Búho de ERGOSTATS"
+subtitle: "Plan de presentación"
+format: html
+editor: visual
+---
+
+#### 1. **Introducción** (5 min)
+
+-   **Presentación Personal y Contexto de ERGOSTATS**:
+    -   Saludo inicial y breve introducción personal.
+    -   Explica la misión de ERGOSTATS como un centro de investigación que promueve el análisis de datos con un enfoque ético y orientado a la comunidad.
+    -   Menciona la especialización en análisis espacial y la importancia del rigor estadístico para abordar temas complejos como los que enfrenta Ecuador.
+-   **Relevancia del Análisis de Datos en Tiempos de Incertidumbre**:
+    -   Describe brevemente el contexto actual de incertidumbre y crisis energética, resaltando cómo afecta a sectores clave en Ecuador.
+    -   Expón la importancia del análisis de datos para tomar decisiones basadas en evidencia en tiempos de crisis.
+-   **Presentación del Proyecto Nido del Búho**:
+    -   Introduce el proyecto destacando su origen, propósito innovador y su enfoque en capacitar a profesionales y estudiantes en análisis de datos.
+    -   Resalta cómo se ha diseñado para cubrir necesidades específicas de la comunidad ecuatoriana, promoviendo la resiliencia y adaptabilidad en los desafíos locales.
+
+#### 2. **Temas Principales** (25 min)
+
+-   **Desafíos de Enseñar Análisis de Datos en 2024**:
+    -   Describe cómo la incertidumbre y la crisis energética han redefinido las necesidades y expectativas en la enseñanza de análisis de datos.
+    -   Explica cómo ERGOSTATS integra tecnologías para optimizar recursos y mitigar estos impactos. Destaca la importancia de métodos de enseñanza flexibles y accesibles en un contexto de recursos limitados.
+-   **Contenido Educativo Adaptado a la Comunidad**:
+    -   Discute la necesidad de desarrollar materiales que respondan a las demandas y características únicas de la comunidad ecuatoriana.
+    -   Resalta el compromiso de ERGOSTATS con una educación accesible, contextual y relevante, y menciona algunos casos prácticos donde el contenido adaptado ha marcado una diferencia.
+-   **Desafíos y Soluciones del Proyecto Nido del Búho**:
+    -   Comparte los principales obstáculos de la segunda edición del proyecto, tales como problemas operativos, logísticos o tecnológicos.
+    -   Describe las soluciones implementadas y en curso para mejorar la experiencia y calidad del proyecto, dando a la audiencia una visión realista y comprometida.
+-   **Educación Ética y Complementaria**:
+    -   Expone la necesidad de una educación que complemente los programas de posgrado, enfocándose en habilidades prácticas y en el uso ético de open source.
+    -   Señala cómo ERGOSTATS promueve el open source no solo por sus ventajas económicas, sino como un valor ético que fomenta la democratización del conocimiento y una investigación transparente y reproducible.
+
+#### 3. **Objetivos de la Ponencia** (5 min)
+
+-   **Resaltar la Innovación del Proyecto Nido del Búho**:
+    -   Muestra el impacto y la innovación que el proyecto ha traído a la educación en análisis de datos en Ecuador, y cómo se posiciona como alternativa de calidad.
+-   **Promover los Cursos sin un Tono de Venta Directa**:
+    -   Presenta brevemente tres cursos de ERGOSTATS, destacando su valor y utilidad en la investigación y análisis de datos, sin sonar promocional.
+    -   Explica cómo cada curso se enfoca en diferentes áreas de especialización que complementan la formación de los doctorandos.
+-   **Adaptar el Lenguaje Técnico con Toque Personal**:
+    -   Ajusta el nivel técnico para que sea accesible a la audiencia de ingenieros, pero con una comunicación clara y empática que refleje tu estilo personal.
+
+#### 4. **Cierre** (5 min)
+
+-   **Reflexión sobre el Rol de los Ingenieros en Tiempos de Incertidumbre**:
+    -   Concluye invitando a los asistentes a reflexionar sobre su rol como ingenieros en un contexto global complejo, y cómo su trabajo puede ser una herramienta poderosa para el cambio.
+    -   Subraya la importancia del compromiso ético y del uso responsable del conocimiento para aportar al desarrollo de Ecuador.
+-   **Invitación Abierta**:
+    -   Cierra con una invitación abierta para explorar el Proyecto Nido del Búho y los cursos de ERGOSTATS como recursos que pueden contribuir activamente a los desafíos actuales y futuros.
+    -   Agradece a la audiencia e invita a preguntas para generar un diálogo enriquecedor.

@@ -18,3 +18,140 @@ Cuando funde ERGOSTATS me propuse sentar las bases de una comunidad alrededor de
 El conocimiento y la tecnologia comparten una caracteristica: el cambio frecuente. Los avances de la estadística clásica, el machine learning, la inteligencia artificial se pubican todos los días y algunos conocmientos son actualizados, otros se reafirman pero la cualidad que debemos sembrar en cada uno no es la capacidad de retener la mayor cantidad de información sino aprender a "aprehender". El objetivo de la educación debe ser de caracter reflexico, una invitación a la crítica fundamentada para engrandecer al mundo con la aplicación de los conocimientos.
 
 En ese sentido el anañisis de datos, su uso y aplicación son una gran oportunidad para cambiar la situación en la que vivimos y esta no debe ser un privilegio, es un derecho. Y la educación debe fomentar al eercicio de este derecho y el goce de sus frutos. Esto no es posible sin un marco ético y comunitario. El Open Source apunta en este objetivo y en ERGOSTATS trabajamos para apoyar esta idea.
+
+-   **Relevancia del Análisis de Datos en Tiempos de Incertidumbre**:
+
+Mis profesores en la Poli me enseñaron:
+
+"Los dolares de hoy no son los mismos que ayer o mañana"
+
+Yo aumentaria que tambien sucede con las circunstancias. Por lo general en la economía asumimos el ceteris paribus, en las ingenierias no partimos de supuestos, pero al estar inmersas en el gran aparataje eocnomico que es el Ecuador deben en algun momento entrar en contacto con los supuestas de la economia. Hoy les traigo un ejercicio muy cercano a nuestra realiadd. Sin duda alguna la crisis energetica tiene un impacto en todas y cada una de las actividades empresariales y productivas, de alguna u otra manera esta situación nos ha llevado a replantearnos los conceptos de bienestar, eficiencia y trabajo.
+
+En una estimación gruesa el Ecuador pierde 13 millones de dolares por hora sin luz. Para las pequeñas empresas el efecto de los cortes de luz puede llegar a ser devastador. Un colega ciclista me comentaba que el negocio de estampados en el que trabaja está al punto de la quiebra, la erosión de la actividad económica no es pareja entre la prluralidad de tamaños de empresas, por lo cual la planificación basada en datos puede generar un cambio positivo a favor de las pequeñas y medianas empresas.
+
+**Presentación del Proyecto Nido del Búho**:
+
+Como Cnetro de Investigación Estadístico hemos desarrollado cursos, talleres, webinars y clases personalizadas empleando R y Python principalmente en areas como son: análisis estadistico, analisis de predicción de series de tiempo, analisis estadistico espacial, visualización e inteligencia de negocios. Desde 2021 nuestro compromiso ha sido acercar el analisis de datos hacia la comunidad. Desafios siempre los hayamos, el mercado es extremadamente competitivo, organizaciones como la Sociedad Ecuatoriana de Estadistica, la fundación Datalat, entre las nacionales, Coursera, MITx, EDX y otras plataformas, entre las extranjeras ofrecen material de altisima calidad, todos incluyendonos a nostros ERGOSTATS se diferencian para poder atender las necesidades de educación complementaria.
+
+El precio siempre va a ser discriminante, ahi donde alguien tiene la capacidad de comprar uno de estos materiales hay otra persona que no tiene dicha capacidad. Sin embargo, la solidaridad y cooperación pueden ser un cambio positivo para nivelar la situación de las personas en situaciones vulnerables. El Nido del buho nace de este espiritu. Cuado fui estudiante de pregrado los tiempos eran distintos, gracias a mi madre linda Esperanza Rivera tuve una educación de calidad en la Escuela Politecnica Nacional. Durante mi paso por la poli, las organizaciones estudiantiles hacían esfuerzos por poner a disposición de sus representados cursos y talleres en analisis de datos, pero más alineados a la programación. Antes del boom de los datos que estamos acutalmente, los perfiles de programación estaban muy desalineados con los conocimientos especificos, era muy dificil encontrar economistas programadores.
+
+La pandemia nos tomo desprevenidos, el país estaba todavia adpatandose a la globalización a gran escala y a pesar de que ha habido pioneros en el uso y enseñanza de datos, la digitalizacion del país es una deuda que seguiremos pagando. Pero durante esta etapa, el analisis de datos y su uso en la toma de decisiones se volvio una tendencia y oportunidad para miles de millones de personas al rededor del mundo. Las FANG eran el sueño de cada estudiante de ciencia de datos, y por mucho tiempo era una motivación imporante para el mercado laboral.
+
+Despues de 3 años nos encontramos en un punto en el que debemos preguntarnos: ¿a donde se fueron los resultados del analisis de datos? es más ¿ha habido resultados? ¿cual es el camino que debemos tomar para aprovechar sus beneficios? Los puestos de analistas, cientificos arquitectos, ingenieros de datos, especialistas en ciencias de la computación que antes eran un sueño hoy en día escasean en las grandes empresas dejandonos una gran lección: toda inversión sin un proposito establecido constituyen un desperdicio de recursos, que como ya mencione serán o no escasos en función del tamaño de la empresa/negocio. \
+\
+En este contexto, una querida amiga Aylin Molina , en ese entonces, presidenta de la asociacion de estudiantes, se contacto con uno de nuestros colegas Paul Yungan, ambos me expresaron la situación complicada que enfrentaban los estudiantes de la carrera de economía cuantitativa: estudiantes chiros por pagar recien la matricula, que estaban por tomar las materias fuertes de su carrera en el cual la comprensión del analisis de datos es fundamental. Pensando en estas circunstancias, recordando la labor de la aso de estudiantes y que fui estudiantes. Levantamos la inicitiva Nido del Buho con nuestro primer curso: "Analisis reproducible de datos con python". La cohorte inicial fue de 36 estudiantes y nuestra motivación fue apoyar con un precio preferencial para estudiantes de pregrado con el fin de crear un contenido adaptado a las necesidades de educación de estos estudiantes, la solidaridad de parte de la aso, la gestión conjunta y el apoyo de varios actores hicieron posible este curso.
+
+Desafiante experiencia sin duda, pero la satisfacción del trabajo comunitario, colaborativo y solidario no tienen igual. Uno de los principales resultados alineados a la construccion de comunidad que busca ERGOSTATS fue la adición de Pablito Sarango a nuestras filas, actualmente es uno de nuestros profesores en el ambito del analisis estadistico espacial.
+
+Como director del Centro de Investigación Estadística ERGOSTATS, considero que la andragogía es fundamental para lograr una enseñanza efectiva en análisis de datos. Comprender los principios de la andragogía nos permite ajustar el aprendizaje a las características específicas de los estudiantes adultos, quienes suelen tener objetivos y motivaciones claras. Al centrarnos en problemas reales y en la aplicación práctica de los datos, logramos que el aprendizaje sea relevante y útil en el contexto profesional de nuestros estudiantes, lo que aumenta tanto el interés como el impacto de los conocimientos adquiridos.
+
+La gamificación complementa perfectamente este enfoque, pues introduce dinamismo en el proceso educativo. Mediante desafíos progresivos, niveles y recompensas, mantenemos el compromiso y el entusiasmo de los estudiantes, creando un entorno de aprendizaje estimulante. Esto no solo facilita la retención de conocimientos, sino que también desarrolla habilidades de resolución de problemas y fomenta la colaboración. Gracias a este enfoque, hemos logrado diseñar experiencias educativas que no solo enseñan habilidades técnicas en datos, sino que también apoyan el crecimiento personal y profesional de cada estudiante.
+
+Un aspecto clave en nuestra estrategia es el diseño de material didáctico con una línea gráfica coherente, que se extiende también a nuestras redes sociales. La imagen visual del material educativo es crucial, pues ayuda a nuestros estudiantes a conectarse mejor con los contenidos y a consolidar la identidad de ERGOSTATS como un centro comprometido con la excelencia en la educación. En este sentido, debemos un gran reconocimiento a Carol Bolaños, cuya ayuda ha sido invaluable en el desarrollo de esta identidad gráfica y en la creación de materiales atractivos y efectivos que refuerzan nuestros principios pedagógicos y alcanzan a una audiencia más amplia.
+
+\
+2. **Temas Principales** (25 min)
+
+-   **Desafíos de Enseñar Análisis de Datos en 2024**:
+    -   Describe cómo la incertidumbre y la crisis energética han redefinido las necesidades y expectativas en la enseñanza de análisis de datos.
+    -   Explica cómo ERGOSTATS integra tecnologías para optimizar recursos y mitigar estos impactos. Destaca la importancia de métodos de enseñanza flexibles y accesibles en un contexto de recursos limitados.
+
+Vamos con unos datos:
+
+##### Paso 1: Datos Básicos y Supuestos
+
+1.  **Costo del Generador**: \$109.99
+2.  **Potencia del Generador**: 950 W (0.95 kW)
+3.  **Horas de Operación Diarias**: 9 horas
+4.  **Días de Operación al Mes**: 30 días (funcionamiento continuo).
+5.  **Precio de la Gasolina**: \$2.679 por litro.
+6.  **Ganancia Mensual de la Empresa**: \$300
+7.  **Tasa de Descuento**: 10% anual (0.1)
+8.  **Vida Útil del Generador**: 3 años
+
+Ahora con un supuesto:
+
+##### Paso 2: Calcular el Consumo de Gasolina en Función de la Potencia
+
+Con base en la potencia del generador (0.95 kW), podemos utilizar un rango estimado de consumo de combustible de **0.2 a 0.3 litros de gasolina por kW por hora**, que es una referencia común para generadores pequeños.
+
+Entonces, calculamos el consumo de gasolina por hora del generador:
+
+-   **Consumo Mínimo (0.2 litros/kW/hora)**: \[ \text{Consumo por Hora (mínimo)} = 0.95 , \text{kW} \times 0.2 = 0.19 , \text{litros/hora} \]
+
+-   **Consumo Máximo (0.3 litros/kW/hora)**: \[ \text{Consumo por Hora (máximo)} = 0.95 , \text{kW} \times 0.3 = 0.285 , \text{litros/hora} \]
+
+##### Paso 3: Calcular el Consumo Total de Gasolina por Mes
+
+Dado que el generador opera 9 horas al día y 30 días al mes, el total de horas de operación mensual es:
+
+\[ \text{Horas Totales al Mes} = 9 , \text{horas/día} \times 30 , \text{días} = 270 , \text{horas} \]
+
+Entonces, el consumo mensual de gasolina para ambos rangos de consumo es:
+
+-   **Consumo Mensual Mínimo**: \[ \text{Consumo Mensual (mínimo)} = 270 , \text{horas} \times 0.19 , \text{litros/hora} = 51.3 , \text{litros} \]
+
+-   **Consumo Mensual Máximo**: \[ \text{Consumo Mensual (máximo)} = 270 , \text{horas} \times 0.285 , \text{litros/hora} = 76.95 , \text{litros} \]
+
+##### Paso 4: Calcular el Costo Mensual de Combustible
+
+Usamos el precio de la gasolina (\$2.679 por litro) para calcular el costo de combustible mensual:
+
+-   **Costo de Combustible Mensual (mínimo)**: \[ \text{Costo de Combustible (mínimo)} = 51.3 , \text{litros} \times 2.679 , \text{USD/litro} = 137.18 , \text{USD} \]
+
+-   **Costo de Combustible Mensual (máximo)**: \[ \text{Costo de Combustible (máximo)} = 76.95 , \text{litros} \times 2.679 , \text{USD/litro} = 206.43 , \text{USD} \]
+
+##### Paso 5: Calcular el Flujo de Caja Mensual
+
+El flujo de caja mensual se calcula restando el costo de combustible mensual de la ganancia mensual de la empresa (\$300).
+
+-   **Flujo de Caja Mensual (mínimo)**: \[ \text{Flujo de Caja (mínimo)} = 300 , \text{USD} - 137.18 , \text{USD} = 162.82 , \text{USD} \]
+
+-   **Flujo de Caja Mensual (máximo)**: \[ \text{Flujo de Caja (máximo)} = 300 , \text{USD} - 206.43 , \text{USD} = 93.57 , \text{USD} \]
+
+Traemos a valor presente:
+
+##### Paso 6: Calcular el Valor Presente Neto (VPN)
+
+El VPN se calcula descontando cada flujo de caja mensual durante la vida útil del generador (3 años o 36 meses) y restando el costo inicial del generador.
+
+###### Fórmula del VPN:
+
+\[ \text{VPN} = -\text{Costo Inicial} + \sum\_{i=1}\^{36} \frac{\text{Flujo de Caja Mensual}}{(1 + \frac{\text{Tasa de Descuento}}{12})^i} \]
+
+Aplicamos esta fórmula para los flujos de caja mínimos y máximos.
+
+1.  **VPN (Consumo Mínimo)**: \$4928.17
+2.  **VPN (Consumo Máximo)**: \$2798.57
+
+##### Conclusión
+
+Ambos valores de VPN son positivos: - Con el **consumo mínimo**, el VPN es \$4928.17. - Con el **consumo máximo**, el VPN es \$2798.57.
+
+Esto sugiere que la inversión en el generador es rentable para la empresa en ambos casos, ya que los beneficios superan los costos operativos y de inversión.
+
+Pero otra pregunta que nos podemos hacer es ¿cuanto es lo minimo que debe generar la empresa al mes para poder sostener la inversion:
+
+Para encontrar el valor mínimo de ganancia mensual que la empresa debe tener para que la compra del generador sea rentable, necesitamos que el **Valor Presente Neto (VPN)** sea **cero** o mayor, lo que significa que los beneficios cubrirán exactamente los costos.
+
+Dado que ya conocemos el costo del generador, el consumo mensual de combustible y la tasa de descuento, podemos calcular el flujo de caja mensual mínimo necesario para que el VPN sea cero.
+
+Vamos a resolver esto matemáticamente y luego calcularlo en código.
+
+##### Paso 1: Configuración de la Fórmula de VPN
+
+Para que el VPN sea cero: \[ 0 = -\text{Costo del Generador} + \sum\_{i=1}\^{36} \frac{\text{Flujo de Caja Mensual}}{(1 + \frac{\text{Tasa de Descuento}}{12})^i} \]
+
+Reorganizamos la fórmula para resolver el **flujo de caja mensual mínimo necesario**: \[ \text{Costo del Generador} = \sum\_{i=1}\^{36} \frac{\text{Flujo de Caja Mensual}}{(1 + \frac{\text{Tasa de Descuento}}{12})^i} \]
+
+Despejamos el flujo de caja mensual: \[ \text{Flujo de Caja Mensual} = \frac{\text{Costo del Generador}}{\sum_{i=1}^{36} \frac{1}{(1 + \frac{\text{Tasa de Descuento}}{12})^i}} \]
+
+##### Paso 2: Agregar el Costo del Combustible
+
+El flujo de caja mensual que hemos calculado es el valor que queda después de restar el costo de combustible. Por lo tanto, la **ganancia mensual mínima** que la empresa necesita es la suma de este flujo de caja mínimo y el costo del combustible mensual.
+
+Voy a realizar estos cálculos en código para obtener el valor mínimo de ganancia mensual.
+
+La ganancia mensual mínima que la empresa necesita para que la compra del generador sea rentable es aproximadamente **\$140.98**. Con esta cantidad, los beneficios cubrirían los costos de inversión y operación, asegurando un Valor Presente Neto (VPN) de cero o mayor, lo cual haría rentable la compra del generador.
+
+Mas adelante: claro que la programación debe llevarse de forma formal y manteniendo una estructura, pero si esta no está alineada a la logica del negocio o a los objetivos de la institucion o persona, es una herramienta potente que no tiene filo.

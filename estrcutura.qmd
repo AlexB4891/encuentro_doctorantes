@@ -10,7 +10,6 @@ editor: visual
 -   **Presentación Personal y Contexto de ERGOSTATS**:
     -   Saludo inicial y breve introducción personal.
     -   Explica la misión de ERGOSTATS como un centro de investigación que promueve el análisis de datos con un enfoque ético y orientado a la comunidad.
-    -   Menciona la especialización en análisis espacial y la importancia del rigor estadístico para abordar temas complejos como los que enfrenta Ecuador.
 -   **Relevancia del Análisis de Datos en Tiempos de Incertidumbre**:
     -   Describe brevemente el contexto actual de incertidumbre y crisis energética, resaltando cómo afecta a sectores clave en Ecuador.
     -   Expón la importancia del análisis de datos para tomar decisiones basadas en evidencia en tiempos de crisis.

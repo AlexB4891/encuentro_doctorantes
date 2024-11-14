@@ -12,3 +12,8 @@ editor: visual
 -   **Presentación Personal y Contexto de ERGOSTATS**:
 
 Soy Alex Bajaña, Director del Centro de Investigación Estadística ERGOSTATS, artista, fan del anime y ciclista. Es un gusto estar en este evento y compartir con doctorantes e investigadores. Agradezco a Carmen Parreño y Marcela Guachamin por hacerme participe de este espacio y quiero compartir con ustedes los siguientes 40 minutos, en los que vamos a vislumbrar el estado de la educación complementaria en terminos de analisis y uso de datos en un punto sin precedentes para el Ecuador y cual es el rol del Centro
+
+    -   Muestra el impacto y la innovación que el proyecto ha traído a la educación en análisis de datos en Ecuador, y cómo se posiciona como alternativa de calidad.
+
+Este ejemplo (generadores como decisión y su impacto ambiental desde un enfoque geográfico) resalta la necesidad de ampliar el espectro de aplicacion que tenemos de la ciencia y análisis de datos. Retomando el proyecto Nido del Buho, la alianza con la REciR de la mano con Carolina Guevara nos llevó al siguiente curso especializado. Nuestro programa Ciencia Abierta, estadística y econometria espacial constituye nuestro segundo exito y a la vez un desafío más grande. El ptimer modulo lo desarrollamos con Pablo Sarango, pese a la distancia, los proyectos individuales resultaron encontrarse encaminados en la misma dirección, con una comunidad cada vez más consolidado y unida llevamos a cabo el primer modulo de este lindo programa. 
+

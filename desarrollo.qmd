@@ -181,3 +181,9 @@ Un aspecto clave en nuestra estrategia es el diseño de material didáctico con 
 *Descripción*: Este módulo explora modelos espaciales avanzados, como SAR y SEM, aplicados a análisis espaciales de datos modernos. El curso utiliza dinámicas de gamificación para facilitar el aprendizaje y promover la interacción activa de los estudiantes.
 
 *Temario*: 1. *Revisión de Modelos Espaciales*: Introducción a los componentes espaciales y sus aplicaciones. 2. *Modelos SAR y SEM*: Fundamentos, implementación y diferencias entre los modelos. 3. *Modelos Espaciales con Múltiples Componentes*: Exploración de modelos con interacciones de uno, dos y tres componentes. 4. *Aplicación Práctica con Datos Actuales*: Uso de datasets contemporáneos y análisis de casos. 5. *Gamificación en el Aprendizaje de Modelos*: Actividades dinámicas para consolidar el aprendizaje y fomentar el análisis colaborativo.
+
+    -   Muestra el impacto y la innovación que el proyecto ha traído a la educación en análisis de datos en Ecuador, y cómo se posiciona como alternativa de calidad.
+
+Este ejemplo (generadores como decisión y su impacto ambiental desde un enfoque geográfico) resalta la necesidad de ampliar el espectro de aplicacion que tenemos de la ciencia y análisis de datos. Retomando el proyecto Nido del Buho, la alianza con la REciR de la mano con Carolina Guevara nos llevó al siguiente curso especializado. Nuestro programa Ciencia Abierta, estadística y econometria espacial constituye nuestro segundo exito y a la vez un desafío más grande. El ptimer modulo lo desarrollamos con Pablo Sarango, pese a la distancia, los proyectos individuales resultaron encontrarse encaminados en la misma dirección, con una comunidad cada vez más consolidado y unida llevamos a cabo el primer modulo de este lindo programa. 
+
+

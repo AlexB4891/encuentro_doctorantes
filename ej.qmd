@@ -1,0 +1,107 @@
+---
+title: "Tablas"
+format: docx
+editor: visual
+---
+
+```{r, eval = FALSE}
+    reg_tables <- list(
+          
+          fs_version1 = reg_table_0 %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version2 = reg_table_0 %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_2015c == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version3 = reg_table_0 %>%
+            filter(!is.na(treatment_a)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version4 = reg_table_0 %>%
+            filter(!is.na(treatment_b)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version5 = reg_table_0 %>%
+            filter(!is.na(treatment_c)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version6 = reg_table_0 %>%
+            filter(!is.na(treatment_a)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_postc == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_postc  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version7 = reg_table_0 %>%
+            filter(!is.na(treatment_b)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_postc == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_postc  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+
+          fs_version8 = reg_table_0 %>%
+            filter(!is.na(treatment_c)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_postc == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_postc  == "C-Maj"  ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+          fs_version9 = reg_table_0 %>% 
+            filter(!is.na(treatment_c)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_postc == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_postc  == "C-Maj" & main_50_sample == 1 & tasa_ir > 0 ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment)),
+          
+          fs_version10 = reg_table_0 %>% 
+            filter(!is.na(treatment_c)) %>%
+            mutate(treat_domestic = case_when(
+              group_assign_2015c == "T-Maj"  & main_50_sample == 1 & tasa_ir > 0  ~ 1,
+              group_assign_2015c  == "C-Maj" & main_50_sample == 1 & tasa_ir > 0 ~ 0,
+              TRUE ~ NA_real_)) %>%
+            select(-treatment) %>%
+            rename(treatment = treat_domestic) %>%
+            filter(!is.na(treatment))
+        )
+```

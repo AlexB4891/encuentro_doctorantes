@@ -1,0 +1,249 @@
+---
+title: "  ."
+format: revealjs
+revealjs:
+  theme: simple
+  slide-number: true # para ver el número de diapositiva
+  title-slide: true 
+css: styles.css  # Incluye un archivo CSS personalizado
+---
+
+
+## {background-image="img/title_slide.png" background-size="70%" padding-top="100px"}
+
+## {style="text-align: center;"}
+
+![](img/NEGRO.png){width="260" hjust="0.5"}
+
+## Hola, mi nombre es Alex Bajaña {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+::::: columns
+::: {.column width="50%"}
+![](img/3%20(2).jpg){.r-stretch width="260" hjust="0.5"}
+
+Soy Alex Bajaña, Director del Centro de Investigación Estadística ERGOSTATS
+:::
+
+::: {.column width="50%"}
+-   Además de mi rol como director, me considero un artista, fan del anime y ciclista.
+
+-   Es un gusto estar en este evento con ustedes, doctorantes e investigadores. Agradezco a **Carmen Parreño y Marcela Guachamin** por la increible gestión de este importante evento. Durante los próximos 40 minutos, exploraremos juntos el estado de la educación en análisis de datos en Ecuador y el rol que ERGOSTATS jugará en los próximos años.
+:::
+:::::
+
+## El Centro de Investigación Estadística ERGOSTATS {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+### Misión de ERGOSTATS:
+
+Fundé ERGOSTATS con la misión de construir una comunidad en torno a las tecnologías Open Source, impulsando una sociedad orientada por datos.
+
+### ¿Por qué el análisis de datos?
+
+El análisis de datos y su aplicación deben ser derechos universales, no un privilegio. La educación en análisis de datos ayuda a entender problemas desde su raíz y a tomar decisiones informadas.
+
+### ¿Que nos espera en 2025?
+
+Nuestra visión para 2025 es fortalecer esta comunidad, promoviendo un marco ético y comunitario donde el análisis de datos sea accesible y fomente el desarrollo.
+
+## Actividades de ERGOSTATS en 2024 {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+-   [3]{style="font-size: 1.5em; font-weight: bold; color: #800080; "} cursos realizados
+-   [2]{style="font-size: 1.5em; font-weight: bold; color: #800080; "} webinars impartidos
+-   [1]{style="font-size: 1.5em; font-weight: bold; color: #800080;"} taller de capacitación interna
+-   [+50]{style="font-size: 1.5em; font-weight: bold; color: #800080;"} publicaciones de carácter estadístico y de divulgación
+
+Colaboraciones importantes:
+
+-   Escuela Pólitecnica Nacional
+-   Prefectura de la provincia de Manabí
+
+## Datos e incertidumbre en tiempos de crisis {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+::::: columns
+::: {.column width="50%"}
+> "Los dólares de hoy no son los mismos que ayer o mañana."
+
+-   No solo cambia el valor del dinero, también lo hacen las circunstancias.
+
+-   En economía, asumimos ceteris paribus; en la realidad, la estabilidad es una ilusión.
+:::
+
+::: {.column width="50%"}
+
+-   **\$13 millones de pérdidas por hora** sin luz en Ecuador.
+
+-   Las pequeñas empresas son las más afectadas: la planificación basada en datos es clave para su resiliencia.
+
+-   Un negocio de estampados enfrenta la quiebra debido a los cortes de electricidad.
+
+-    Los datos ayudan a redefinir conceptos de **bienestar, eficiencia y trabajo** para todos los sectores.
+:::
+:::::
+
+## El Proyecto Nido del Búho {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+::: {.r-stack}
+![&nbsp;](img/owlnest1.jpg){.fragment width="450"}
+
+![&nbsp;](img/owlnest2_v2.jpg){.fragment width="450"}
+![&nbsp;](img/owlnest3_v2.jpg){.fragment width="450"}
+:::
+
+## El Proyecto Nido del Búho {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+::: {.r-stack}
+![&nbsp;](img/owlnest4_v2.jpg){.fragment width="450"}
+![&nbsp;](img/owlnest5_v2.jpg){.fragment width="450"}
+
+:::
+
+## El Proyecto Nido del Búho {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+| Año | Evento |
+| --- | ------ |
+| **2021** | **Fundación de ERGOSTATS**: Compromiso con la comunidad para acercar el análisis de datos a través de cursos y talleres en R y Python. |
+| **Inicio de la Pandemia** | Incremento global en la demanda de habilidades en análisis de datos y programación debido a la digitalización acelerada. |
+| **2023** | **Inicio del Proyecto Nido del Búho**: Inspirado por las experiencias de estudiantes de economía cuantitativa que enfrentaban dificultades para acceder a materiales asequibles y adaptados a sus necesidades. |
+
+## El Proyecto Nido del Búho {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+| Año | Evento |
+| --- | ------ |
+| **Primera Cohorte del Nido del Búho** | **Curso inicial "Análisis reproducible de datos con Python"**: 36 estudiantes de pregrado en economía cuantitativa, con precios preferenciales y contenido adaptado a su contexto académico. |
+| **Resultado Clave** | **Incorporación de Pablo Sarango a ERGOSTATS**: Como profesor en análisis estadístico espacial, reforzando el enfoque comunitario del proyecto. |
+
+---
+
+## Actores Clave {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Aylin Molina**: Expresidenta de la asociación de estudiantes y amiga de ERGOSTATS, quien identificó la necesidad de un recurso educativo accesible para estudiantes de economía cuantitativa.
+- **Paul Yungan**: Colaborador de ERGOSTATS que, junto con Aylin, impulsó la iniciativa para apoyar a estudiantes económicamente vulnerables.
+- **Esperanza Rivera**: Inspiración y apoyo en la educación de calidad, recordando los esfuerzos de quienes promovieron el aprendizaje en entornos limitados.
+- **Asociación de Estudiantes de la Escuela Politécnica Nacional**: Actor clave en la gestión y logística, facilitando recursos para los estudiantes.
+- **Pablo Sarango**: Profesor de análisis estadístico espacial en ERGOSTATS, quien se unió como resultado del proyecto, fortaleciendo la misión de construir una comunidad en torno al análisis de datos.
+
+
+## Un ejercicio cercano {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+La crisis energética y la incertidumbre económica impactan a pequeñas empresas que necesitan optimizar sus recursos. Queremos estimar del costo y beneficio de usar un generador para mitigar el impacto de los cortes de energía en una empresa con ingresos limitados.
+
+- **Datos Básicos y Supuestos**:
+  - **Costo del Generador**: $109.99
+  - **Potencia**: 950 W (0.95 kW)
+  - **Horas de Operación**: 9 horas/día, 30 días/mes
+  - **Precio de la Gasolina**: $2.679/litro
+  - **Ganancia Mensual**: $300
+  - **Tasa de Descuento**: 10% anual
+  - **Vida Útil del Generador**: 3 años
+
+---
+
+## Cálculos de Consumo de Gasolina y Costo de Operación {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Consumo de Gasolina**:
+  - **Consumo Mínimo**: 0.19 litros/hora → 51.3 litros/mes
+  - **Consumo Máximo**: 0.285 litros/hora → 76.95 litros/mes
+- **Costo de Combustible**:
+  - **Costo Mensual Mínimo**: 51.3 litros × $2.679/litro = $137.18
+  - **Costo Mensual Máximo**: 76.95 litros × $2.679/litro = $206.43
+- **Flujo de Caja Mensual**:
+  - **Flujo Mínimo**: $300 - $137.18 = $162.82
+  - **Flujo Máximo**: $300 - $206.43 = $93.57
+
+---
+
+##  Valor Presente Neto (VPN) en acción {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+  - **Fórmula del VPN**: 
+  $$\text{VPN} = -\text{Costo Inicial} + \sum_{i=1}^{36} \frac{\text{Flujo de Caja Mensual}}{(1 + \frac{\text{Tasa de Descuento}}{12})^i}$$
+  - **VPN con Consumo Mínimo**: $4928.17
+  - **VPN con Consumo Máximo**: $2798.57
+- **Conclusión**:
+  - Ambos VPN son positivos, indicando una **inversión viable** para enfrentar la crisis energética.
+  - La optimización de recursos mediante el uso de un generador es rentable, especialmente bajo un consumo mínimo de combustible.
+  
+## Ganancia Mensual Mínima {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+  - La planificación y análisis basados en datos son esenciales para la toma de decisiones en tiempos de incertidumbre.
+- La inversión en el generador es rentable en ambos casos de consumo de combustible, con un VPN positivo.
+- Ahora nos preguntamos: **¿Cuál es la ganancia mínima mensual necesaria para sostener esta inversión?**
+- **Condición**: Para que la inversión sea rentable, el **VPN debe ser cero o mayor**.
+- La **ganancia mensual mínima necesaria** para cubrir costos operativos y de inversión es **$140.98**.
+
+
+## Aprendizajes en Toma de Decisión Basada en Datos {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Contexto Real y Datos Actualizados**: La toma de decisiones consciente requiere una comprensión clara de la realidad y del entorno. Utilizar herramientas como **web scraping** nos permite obtener datos actualizados y relevantes en tiempo real.
+- **Ciencia de Datos en Evaluación de Inversiones**: Al integrar análisis de datos, podemos evaluar el impacto financiero y operativo de nuestras decisiones de forma precisa. Esto incluye técnicas como el análisis de series de tiempo y modelos de optimización.
+- **Aplicación de Herramientas de Ciencia de Datos**: Herramientas como Python y R nos ayudan a procesar grandes volúmenes de datos, hacer proyecciones y obtener insights críticos que guían decisiones informadas.
+
+
+## Consecuencias de las Decisiones {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Decisiones con Consecuencias Ambientales**:
+  - Los generadores emiten gases nocivos que impactan la calidad del aire y la salud pública.
+  - **Efecto de Calor Urbano**: El uso prolongado de generadores contribuye al incremento de las **islas de calor**, un fenómeno que afecta principalmente áreas urbanas.
+- **Importancia del Análisis Espacial**: Medir el impacto ambiental de decisiones de infraestructura y equipamiento es clave. A través de herramientas de análisis espacial, podemos entender cómo decisiones individuales afectan el entorno en un contexto amplio.
+
+## Nido del Buho y el análisis espacial {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+| Año       | Evento                                                                                                  |
+|-----------|---------------------------------------------------------------------------------------------------------|
+| **2023**  | **Lanzamiento del Proyecto Nido del Búho**: Iniciativa de ERGOSTATS para democratizar la educación en análisis de datos en Ecuador. |
+| **Alianza con RECIR** | **Colaboración con Carolina Guevara**: Junto a la Red Ecuatoriana de Ciencia  Regional (RECIR) se expanden los cursos a áreas avanzadas. |
+| **Inicio del Programa** | Módulo 1 - Introducción a Estadística y Econometría Espacial |
+| **Desarrollo del Módulo 2** | **Curso interno con Víctor Morales**: ¿Cómo enseñar modelos con retardo espacial en la variable dependiente (SAR), en las variables explicativas (SLX) y en el error (SEM)? |
+
+## Nido del Buho y el análisis espacial {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+![](img/fin_curso.png){.r-stretch width="260" hjust="0.5"}
+
+## Andragogía y Aprendizaje Centrado en el Adulto {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Diseño Coherente y Atractivo**: Nuestra línea gráfica, creada con el apoyo de **Carol Bolaños**, fortalece la conexión con los estudiantes y refuerza la identidad de ERGOSTATS.
+- **Enfoque Andragógico**: Adaptamos el aprendizaje a las necesidades específicas de los estudiantes adultos, quienes buscan conocimientos prácticos y aplicables en su contexto profesional.
+- **Relevancia en Problemas Reales**: Priorizamos ejemplos y aplicaciones del análisis de datos que reflejan desafíos actuales, maximizando el impacto y el interés de los estudiantes.
+- **Dinámica de Aprendizaje**: Con desafíos, niveles y recompensas, creamos un entorno estimulante que facilita la retención y fomenta la colaboración.
+
+## Nuestra oferta académica {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+- **Reproducibilidad**: Aseguramos que los análisis puedan ser replicados de manera consistente, promoviendo transparencia y confiabilidad.
+- **Código Limpio y Mejores Prácticas**: Instruimos en la escritura de código eficiente, claro y bien documentado.
+- **Enfoque Ético**: Nos comprometemos con el uso responsable de los datos, formando profesionales que consideren el impacto de sus análisis en la sociedad.
+- **Más que Técnica**: La programación debe estar alineada con la **lógica del negocio** o los **objetivos de la institución**.
+- **Potencia con Propósito**: Sin un enfoque adecuado, incluso las herramientas más avanzadas pierden su impacto.
+- **Objetivo en ERGOSTATS**: Enseñar a aplicar habilidades técnicas en análisis de datos de forma coherente y efectiva, contribuyendo a un desarrollo sustentable y ético.
+
+
+## Data Storytelling con R {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+Los participantes aprenderán a crear gráficos estéticamente agradables y funcionales, comprendiendo la importancia de la narrativa visual en la interpretación de datos.
+
+1. *Introducción al Data Storytelling*: Principios de narrativa visual y su relevancia en la toma de decisiones.
+2. *Exploración de Datos y Elección de Gráficos*: Selección de visualizaciones y transformación de datos. 
+3. *Técnicas Avanzadas con ggplot2*: Personalización de gráficos, escalas, y temas avanzados. 
+4. *Narrativas Interactivas y Visualización Dinámica*: Integración con plotly y shiny para presentaciones interactivas. 
+5. *Construcción de una Historia Completa con Datos*: Desarrollo de un proyecto final que conecte gráficos y narrativa.
+
+## Análisis de Datos temporales con Python {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+Los estudiantes aprenderán técnicas esenciales para gestionar series de tiempo y realizar predicciones mediante Python, empleando librerías especializadas.
+
+1. *Fundamentos de Series de Tiempo*: Introducción a los conceptos y su importancia en el análisis de datos temporales. 
+2. *Manejo de Datos Temporales en Python*: Librerías clave (pandas, numpy) para transformar y limpiar series de tiempo. 
+3. *Análisis Exploratorio y Visualización de Series*: Técnicas de visualización para identificar patrones y anomalías. 
+4. *Modelos de Pronóstico*: Modelos ARIMA, SARIMA y su implementación en Python. 
+5. *Evaluación y Optimización del Modelo*: Validación y mejora de modelos de predicción para distintos escenarios de datos.
+
+## Estadística y Econometría Espacial – Módulo 2 {background-image="img/upper.png" background-size="65%" padding-top="100px"}
+
+Este módulo explora modelos espaciales avanzados, como SAR y SEM, aplicados a análisis espaciales de datos modernos. El curso utiliza dinámicas de gamificación para facilitar el aprendizaje y promover la interacción activa de los estudiantes.
+
+1. *Revisión de Modelos Espaciales*: Introducción a los componentes espaciales y sus aplicaciones. 
+2. *Modelos SAR y SEM*: Fundamentos, implementación y diferencias entre los modelos. 
+3. *Modelos Espaciales con Múltiples Componentes*: Exploración de modelos con interacciones de uno, dos y tres componentes. 
+4. *Aplicación Práctica con Datos Actuales*: Uso de datasets contemporáneos y análisis de casos. 
+5. *Gamificación en el Aprendizaje de Modelos*: Actividades dinámicas para consolidar el aprendizaje y fomentar el análisis colaborativo.
+
+## {background-image="img/final.png" background-size="70%" padding-top="100px"}
+

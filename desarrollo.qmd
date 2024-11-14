@@ -43,12 +43,6 @@ En este contexto, una querida amiga Aylin Molina , en ese entonces, presidenta d
 
 Desafiante experiencia sin duda, pero la satisfacción del trabajo comunitario, colaborativo y solidario no tienen igual. Uno de los principales resultados alineados a la construccion de comunidad que busca ERGOSTATS fue la adición de Pablito Sarango a nuestras filas, actualmente es uno de nuestros profesores en el ambito del analisis estadistico espacial.
 
-Como director del Centro de Investigación Estadística ERGOSTATS, considero que la andragogía es fundamental para lograr una enseñanza efectiva en análisis de datos. Comprender los principios de la andragogía nos permite ajustar el aprendizaje a las características específicas de los estudiantes adultos, quienes suelen tener objetivos y motivaciones claras. Al centrarnos en problemas reales y en la aplicación práctica de los datos, logramos que el aprendizaje sea relevante y útil en el contexto profesional de nuestros estudiantes, lo que aumenta tanto el interés como el impacto de los conocimientos adquiridos.
-
-La gamificación complementa perfectamente este enfoque, pues introduce dinamismo en el proceso educativo. Mediante desafíos progresivos, niveles y recompensas, mantenemos el compromiso y el entusiasmo de los estudiantes, creando un entorno de aprendizaje estimulante. Esto no solo facilita la retención de conocimientos, sino que también desarrolla habilidades de resolución de problemas y fomenta la colaboración. Gracias a este enfoque, hemos logrado diseñar experiencias educativas que no solo enseñan habilidades técnicas en datos, sino que también apoyan el crecimiento personal y profesional de cada estudiante.
-
-Un aspecto clave en nuestra estrategia es el diseño de material didáctico con una línea gráfica coherente, que se extiende también a nuestras redes sociales. La imagen visual del material educativo es crucial, pues ayuda a nuestros estudiantes a conectarse mejor con los contenidos y a consolidar la identidad de ERGOSTATS como un centro comprometido con la excelencia en la educación. En este sentido, debemos un gran reconocimiento a Carol Bolaños, cuya ayuda ha sido invaluable en el desarrollo de esta identidad gráfica y en la creación de materiales atractivos y efectivos que refuerzan nuestros principios pedagógicos y alcanzan a una audiencia más amplia.
-
 \
 2. **Temas Principales** (25 min)
 
@@ -155,3 +149,35 @@ Voy a realizar estos cálculos en código para obtener el valor mínimo de ganan
 La ganancia mensual mínima que la empresa necesita para que la compra del generador sea rentable es aproximadamente **\$140.98**. Con esta cantidad, los beneficios cubrirían los costos de inversión y operación, asegurando un Valor Presente Neto (VPN) de cero o mayor, lo cual haría rentable la compra del generador.
 
 Mas adelante: claro que la programación debe llevarse de forma formal y manteniendo una estructura, pero si esta no está alineada a la logica del negocio o a los objetivos de la institucion o persona, es una herramienta potente que no tiene filo.
+
+-   **Desafíos y Soluciones del Proyecto Nido del Búho**: **contenido Educativo Adaptado a la Comunidad**:
+
+Como director del Centro de Investigación Estadística ERGOSTATS, considero que la andragogía es fundamental para lograr una enseñanza efectiva en análisis de datos. Comprender los principios de la andragogía nos permite ajustar el aprendizaje a las características específicas de los estudiantes adultos, quienes suelen tener objetivos y motivaciones claras. Al centrarnos en problemas reales y en la aplicación práctica de los datos, logramos que el aprendizaje sea relevante y útil en el contexto profesional de nuestros estudiantes, lo que aumenta tanto el interés como el impacto de los conocimientos adquiridos.
+
+La gamificación complementa perfectamente este enfoque, pues introduce dinamismo en el proceso educativo. Mediante desafíos progresivos, niveles y recompensas, mantenemos el compromiso y el entusiasmo de los estudiantes, creando un entorno de aprendizaje estimulante. Esto no solo facilita la retención de conocimientos, sino que también desarrolla habilidades de resolución de problemas y fomenta la colaboración. Gracias a este enfoque, hemos logrado diseñar experiencias educativas que no solo enseñan habilidades técnicas en datos, sino que también apoyan el crecimiento personal y profesional de cada estudiante.
+
+Un aspecto clave en nuestra estrategia es el diseño de material didáctico con una línea gráfica coherente, que se extiende también a nuestras redes sociales. La imagen visual del material educativo es crucial, pues ayuda a nuestros estudiantes a conectarse mejor con los contenidos y a consolidar la identidad de ERGOSTATS como un centro comprometido con la excelencia en la educación. En este sentido, debemos un gran reconocimiento a Carol Bolaños, cuya ayuda ha sido invaluable en el desarrollo de esta identidad gráfica y en la creación de materiales atractivos y efectivos que refuerzan nuestros principios pedagógicos y alcanzan a una audiencia más amplia.
+
+-   **Promover los Cursos sin un Tono de Venta Directa**:
+
+### Curso 1: *Data Storytelling con R*
+
+*Descripción*: Este curso enseña técnicas avanzadas de visualización en R, enfocándose en contar historias efectivas con datos mediante ggplot2. Los participantes aprenderán a crear gráficos estéticamente agradables y funcionales, comprendiendo la importancia de la narrativa visual en la interpretación de datos.
+
+*Temario*: 1. *Introducción al Data Storytelling*: Principios de narrativa visual y su relevancia en la toma de decisiones. 2. *Exploración de Datos y Elección de Gráficos*: Selección de visualizaciones y transformación de datos. 3. *Técnicas Avanzadas con ggplot2*: Personalización de gráficos, escalas, y temas avanzados. 4. *Narrativas Interactivas y Visualización Dinámica*: Integración con plotly y shiny para presentaciones interactivas. 5. *Construcción de una Historia Completa con Datos*: Desarrollo de un proyecto final que conecte gráficos y narrativa.
+
+------------------------------------------------------------------------
+
+### Curso 2: *Análisis de Datos con Python*
+
+*Descripción*: Este curso se enfoca en el procesamiento y análisis de datos temporales, abordando desde la recolección hasta el pronóstico. Los estudiantes aprenderán técnicas esenciales para gestionar series de tiempo y realizar predicciones mediante Python, empleando librerías especializadas.
+
+*Temario*: 1. *Fundamentos de Series de Tiempo*: Introducción a los conceptos y su importancia en el análisis de datos temporales. 2. *Manejo de Datos Temporales en Python*: Librerías clave (pandas, numpy) para transformar y limpiar series de tiempo. 3. *Análisis Exploratorio y Visualización de Series*: Técnicas de visualización para identificar patrones y anomalías. 4. *Modelos de Pronóstico*: Modelos ARIMA, SARIMA y su implementación en Python. 5. *Evaluación y Optimización del Modelo*: Validación y mejora de modelos de predicción para distintos escenarios de datos.
+
+------------------------------------------------------------------------
+
+### Curso 3: *Estadística y Econometría Espacial – Módulo 2*
+
+*Descripción*: Este módulo explora modelos espaciales avanzados, como SAR y SEM, aplicados a análisis espaciales de datos modernos. El curso utiliza dinámicas de gamificación para facilitar el aprendizaje y promover la interacción activa de los estudiantes.
+
+*Temario*: 1. *Revisión de Modelos Espaciales*: Introducción a los componentes espaciales y sus aplicaciones. 2. *Modelos SAR y SEM*: Fundamentos, implementación y diferencias entre los modelos. 3. *Modelos Espaciales con Múltiples Componentes*: Exploración de modelos con interacciones de uno, dos y tres componentes. 4. *Aplicación Práctica con Datos Actuales*: Uso de datasets contemporáneos y análisis de casos. 5. *Gamificación en el Aprendizaje de Modelos*: Actividades dinámicas para consolidar el aprendizaje y fomentar el análisis colaborativo.
